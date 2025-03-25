@@ -4,7 +4,7 @@
 Code-It is a search engine designed to help users find coding problems. Using the TF-IDF (Term Frequency-Inverse Document Frequency) algorithm, Code-It processes user queries and retrieves the most relevant coding problems. Its intuitive interface ensures users can easily navigate and find the coding challenges they need.
 
 ## Author
-- [@Princemann56](https://github.com/Princemann56)
+- [@manishmahala](https://github.com/manishmahala)
 
 ## Tech Stack
 - **Client:** EJS
