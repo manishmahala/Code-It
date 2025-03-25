@@ -24,7 +24,7 @@ Code-It is a search engine designed to help users find coding problems. Using th
 ## Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Princemann56/Codeit.git
+   git clone https://github.com/manishmahala/Codeit.git
 
 2. Navigate to the project directory:
    ```bash
