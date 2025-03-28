@@ -37,7 +37,7 @@ Code-It is a search engine designed to help users find coding problems. Using th
    node app.js
 
 ## Usage Instructions
-- Open your browser and navigate to http://localhost:3000.
+- Open your browser and navigate to https://code-it-afgb.onrender.com.
 - Use the search bar to input your coding problem queries.
 - Browse through the search results to find relevant coding problems.
 
