@@ -12,13 +12,13 @@ Code-It is a search engine designed to help users find coding problems. Using th
 
 ## Demo
 ### Home Page
-![Home Page](./public/Screenshot%202024-06-29%20172555.png)
+![Home Page](./public/1.png)
 
 ### Search Results
-![Search Results](./public/Screenshot%202024-06-29%20172718.png)
+![Search Results](./public/2.png)
 
 ### Detailed View
-![Detailed View](./public/Screenshot%202024-06-29%20172731.png)
+![Detailed View](./public/3.png)
 
 
 ## Installation Instructions
